@@ -11,7 +11,7 @@
   {"number": 10, "name": "El Trece", "url": "https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/tracks-v4/mono.m3u8"},
   {"number": 11, "name": "America TV", "url": "https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8"},
   {"number": 12, "name": "Television Publica", "url": ""},
-  {"number": 13, "name": "Net TV", "url": ""},
+  {"number": 13, "name": "Net TV", "url": "https://unlimited1-saopaulo.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8?nimblesessionid=262058508"},
   {"number": 14, "name": "Bravo TV", "url": ""},
   {"number": 15, "name": "TN", "url": ""},
   {"number": 16, "name": "C5N", "url": ""},
