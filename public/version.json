@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "apkUrl": "https://mi-github.io/ARDTV/ARDTV_v1.0.apk",
-  "releaseNotes": "Primera versión de ARD TV"
+  "version": "1.0.1",
+  "apkUrl": "https://github.com/rikimiki-10/ard-radioytv-app/raw/refs/heads/main/public/ARDTV-v1.0.1.apk",
+  "releaseNotes": "Se corrigen bugs, se actualizan canales y radios"
 }
