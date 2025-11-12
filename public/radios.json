@@ -18,7 +18,7 @@
   {"number": 1017, "name": "FM Q 92.7", "url": "http://radios.argentina.fm:9270/stream"},
   {"number": 1018, "name": "Radio Mitre Rosario 103.7", "url": "http://s11.stweb.tv/one/live/playlist.m3u8"},
   {"number": 1019, "name": "FM La 100 99.9", "url": "http://retransmisorasenelpais.cienradios.com.ar:8000/la100.aac"},
-  {"number": 1020, "name": "Radio Pop AM 1180", "url": ""},
+  {"number": 1020, "name": " Urbana Play", "url": "https://cdn.instream.audio/stream/urbanaplay"},
   {"number": 1021, "name": "FM Metro 95.1", "url": "http://mp3.metroaudio1.stream.avstreaming.net:7200/metro"},
   {"number": 1022, "name": "FM Radio Rock & Pop Córdoba", "url": "http://play-rockandpop.cdn.sion.com:1935/rockandpop/audioweb/playlist.m3u8"},
   {"number": 1023, "name": "FM Radio María 91.3", "url": ""},
